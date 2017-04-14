@@ -1,0 +1,8 @@
+buzzer, digitalOutput, 2
+led, digitalOutput, 7
+led, digitalOutput, 4
+led, digitalOutput, 3
+led, digitalOutput, 2
+uvSensor, analogInput, 2
+uvSensor, analogInput, 1
+moistureSensor, analogInput, 0
