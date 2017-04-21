@@ -6,6 +6,8 @@ The Patzah Project is a robotic platform designed to teach programming.
  * Sensors/actuators:
    * Grove
    * Grove Cable + jumper cables + any other
+   
+*Please note that this repository includes the folders CADfiles and projectInformation which are not necessary to download.*
 
 ### For IP display and launch of jupyter server on startup:
 
