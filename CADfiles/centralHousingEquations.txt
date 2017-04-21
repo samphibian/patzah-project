@@ -1,0 +1,16 @@
+﻿"rasPiHoleDiam"=0.11
+"rasPiHolHorBet"=2.035
+"rasPiHolVerBet"=2.395
+"housingStabbyHeights"=0.395
+"housingChannelWidth"= 0.55
+"housingChannelHeight"=0.275
+"housingPiStandOff"=0.234
+"housingPiStandOffHeight"=0.15
+"railTrackWidth"=0.135
+"railWidth"=0.375	
+"railEdgeToCenter"=1.2825
+
+"groveHoleDiam"=0.09375
+"groveHoleBetween"=0.78125
+"grovePegLength"=0.125
+"grovePegStickOut"=0.125
