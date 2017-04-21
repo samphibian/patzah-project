@@ -1,0 +1,5 @@
+buzzer, digitalOutput, 2
+led, digitalOutput, 4
+pushButton, digitalInput, 6
+lightSensor, analogInput, 0
+servo, servos, 0
